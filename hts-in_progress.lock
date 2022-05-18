@@ -1,0 +1,7 @@
+Mirror in progress since Wed, 18 May 2022 18:21:06 .. please wait!
+httrack -w -iC2 -A9999999 -%c999 -c10 https://ergebnisse.svw.info/ -O /var/www/svw.svbalingen.de/htdocs/ -s0 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=862141
+UID=33
+GID=33
+START=1652890866

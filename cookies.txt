@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ergebnisse.svw.info	TRUE	/	FALSE	1999999999	PHPSESSID	5j8jvhdpud9oj5annhk0ubl0cr
+ergebnisse.svw.info	TRUE	/	FALSE	1999999999	testcookie	testvalue
+
