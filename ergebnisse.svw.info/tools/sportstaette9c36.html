@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xml:lang="de" lang="de">
+
+<!-- Mirrored from ergebnisse.svw.info/tools/sportstaette.php?aid=6307 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jun 2022 06:26:24 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=ISO-8859-15" /><!-- /Added by HTTrack -->
+<head>
+<title> Sportstätte</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-15" />
+<meta http-equiv="imagetoolbar" content="false" />
+<meta name="description" content="Template f&uuml;r den SVW - zwei Spalten" />
+<meta name="author" content="Schachverband W&uuml;rttemberg e.V." />
+<meta name="robots" content="index, follow, archive" />
+<link rel="shortcut icon" href="https://ergebnisse.svw.info/img/favicon.ico" type="image/x-icon" />
+<link href="https://css.svw.info/styles.css" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+<link href="http://css.svw.info/yaml_31/core/iehacks.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+      	  		<script type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2.0&amp;key=ABQIAAAAGZc5Hfix7Mzai3ai6_ZswhTK3jT9ZLDQWzlAcVR7d2FUFEixdRQAgwyOxyI3QFx3mEYmuln3_QPrIQ"></script>
+  	  		<script type="text/javascript" src="../js/bodyjs.js"></script>
+  	  </head>
+
+<body style="background-color:#fff"  onunload="GUnload()">
+	<a id="content" name="content"></a> <!-- Skiplink-Anker: Content -->
+	<div class="clearfix" >
+	<h2 class="le">Sportstätte</h2>
+
+<div id="gmapper_map" style = "width:500px;height:350px;" ></div>
+
+<script type="text/javascript">
+//<![CDATA[
+var map = new GMap2(document.getElementById("gmapper_map"));
+var geocoder = new GClientGeocoder();
+map.enableScrollWheelZoom();
+var mapdiv = document.getElementById("gmapper_map");
+GEvent.addDomListener(mapdiv, "DOMMouseScroll", wheelevent);
+mapdiv.onmousewheel = wheelevent;
+map.addControl(new GLargeMapControl());
+map.addControl(new GMapTypeControl());
+var mt = map.getMapTypes();
+for (var i=0; i<mt.length; i++) {  mt[i].getMinimumResolution = function() {return 1;}
+  mt[i].getMaximumResolution = function() {return 20;}
+}
+//var mycontrol = new GHierarchicalMapTypeControl();
+var mycontrol = new GMapTypeControl();
+map.addControl(mycontrol);
+map.setCenter(new GLatLng( ,),14);
+new GKeyboardHandler(map);
+map.enableDoubleClickZoom();
+map.enableContinuousZoom();
+map.setMapType(G_NORMAL_MAP);
+var interval = setInterval("tilechk()",500);
+ //]]>
+ </script>
+
+<script type="text/javascript">
+ //<![CDATA[
+
+
+svOverlay = new GStreetviewOverlay();
+ map.addOverlay(svOverlay);
+
+//]]>
+</script>
+	</div>
+	<!-- #col3: - Ende -->
+</body>
+
+<!-- Mirrored from ergebnisse.svw.info/tools/sportstaette.php?aid=6307 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Jun 2022 06:26:24 GMT -->
+</html>
