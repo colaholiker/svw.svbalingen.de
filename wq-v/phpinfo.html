@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Aug 2022 04:00:17 GMT -->
+<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Aug 2022 04:23:19 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <style type="text/css">
@@ -33,7 +33,7 @@ hr {width: 934px; background-color: #ccc; border: 0; height: 1px;}
 </table>
 <table>
 <tr><td class="e">System </td><td class="v">Linux hetzner2.svbalingen.de 5.4.0-122-generic #138-Ubuntu SMP Wed Jun 22 15:00:31 UTC 2022 x86_64 </td></tr>
-<tr><td class="e">Build Date </td><td class="v">Jun 27 2022 08:20:35 </td></tr>
+<tr><td class="e">Build Date </td><td class="v">Aug  1 2022 15:06:20 </td></tr>
 <tr><td class="e">Server API </td><td class="v">FPM/FastCGI </td></tr>
 <tr><td class="e">Virtual Directory Support </td><td class="v">disabled </td></tr>
 <tr><td class="e">Configuration File (php.ini) Path </td><td class="v">/etc/php/7.4/fpm </td></tr>
@@ -43,7 +43,6 @@ hr {width: 934px; background-color: #ccc; border: 0; height: 1px;}
 /etc/php/7.4/fpm/conf.d/10-opcache.ini,
 /etc/php/7.4/fpm/conf.d/10-pdo.ini,
 /etc/php/7.4/fpm/conf.d/15-xml.ini,
-/etc/php/7.4/fpm/conf.d/20-apcu.ini,
 /etc/php/7.4/fpm/conf.d/20-calendar.ini,
 /etc/php/7.4/fpm/conf.d/20-ctype.ini,
 /etc/php/7.4/fpm/conf.d/20-curl.ini,
@@ -77,7 +76,6 @@ hr {width: 934px; background-color: #ccc; border: 0; height: 1px;}
 /etc/php/7.4/fpm/conf.d/20-xmlwriter.ini,
 /etc/php/7.4/fpm/conf.d/20-xsl.ini,
 /etc/php/7.4/fpm/conf.d/20-zip.ini,
-/etc/php/7.4/fpm/conf.d/25-apcu_bc.ini,
 /etc/php/7.4/fpm/conf.d/99_typo3_svbalingen.ini
  </td></tr>
 <tr><td class="e">PHP API </td><td class="v">20190902 </td></tr>
@@ -92,7 +90,7 @@ hr {width: 934px; background-color: #ccc; border: 0; height: 1px;}
 <tr><td class="e">Zend Multibyte Support </td><td class="v">provided by mbstring </td></tr>
 <tr><td class="e">IPv6 Support </td><td class="v">enabled </td></tr>
 <tr><td class="e">DTrace Support </td><td class="v">available, disabled </td></tr>
-<tr><td class="e">Registered PHP Streams</td><td class="v">https, ftps, compress.zlib, php, file, glob, data, http, ftp, zip, phar</td></tr>
+<tr><td class="e">Registered PHP Streams</td><td class="v">https, ftps, compress.zlib, php, file, glob, data, http, ftp, phar, zip</td></tr>
 <tr><td class="e">Registered Stream Socket Transports</td><td class="v">tcp, udp, unix, udg, ssl, tls, tlsv1.0, tlsv1.1, tlsv1.2, tlsv1.3</td></tr>
 <tr><td class="e">Registered Stream Filters</td><td class="v">zlib.*, string.rot13, string.toupper, string.tolower, string.strip_tags, convert.*, consumed, dechunk, convert.iconv.*</td></tr>
 </table>
@@ -103,37 +101,6 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 </table>
 <hr />
 <h1>Configuration</h1>
-<h2><a name="module_apc">apc</a></h2>
-<table>
-<tr><td class="e">APC Compatibility </td><td class="v">1.0.5 </td></tr>
-</table>
-<h2><a name="module_apcu">apcu</a></h2>
-<table>
-<tr><td class="e">APCu Support </td><td class="v">Enabled </td></tr>
-<tr><td class="e">Version </td><td class="v">5.1.21 </td></tr>
-<tr><td class="e">APCu Debugging </td><td class="v">Disabled </td></tr>
-<tr><td class="e">MMAP Support </td><td class="v">Enabled </td></tr>
-<tr><td class="e">MMAP File Mask </td><td class="v"><i>no value</i> </td></tr>
-<tr><td class="e">Serialization Support </td><td class="v">php </td></tr>
-<tr><td class="e">Build Date </td><td class="v">Jun 25 2022 07:29:08 </td></tr>
-</table>
-<table>
-<tr class="h"><th>Directive</th><th>Local Value</th><th>Master Value</th></tr>
-<tr><td class="e">apc.coredump_unmap</td><td class="v">Off</td><td class="v">Off</td></tr>
-<tr><td class="e">apc.enable_cli</td><td class="v">On</td><td class="v">On</td></tr>
-<tr><td class="e">apc.enabled</td><td class="v">On</td><td class="v">On</td></tr>
-<tr><td class="e">apc.entries_hint</td><td class="v">4096</td><td class="v">4096</td></tr>
-<tr><td class="e">apc.gc_ttl</td><td class="v">3600</td><td class="v">3600</td></tr>
-<tr><td class="e">apc.mmap_file_mask</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
-<tr><td class="e">apc.preload_path</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
-<tr><td class="e">apc.serializer</td><td class="v">php</td><td class="v">php</td></tr>
-<tr><td class="e">apc.shm_segments</td><td class="v">1</td><td class="v">1</td></tr>
-<tr><td class="e">apc.shm_size</td><td class="v">512M</td><td class="v">512M</td></tr>
-<tr><td class="e">apc.slam_defense</td><td class="v">Off</td><td class="v">Off</td></tr>
-<tr><td class="e">apc.smart</td><td class="v">0</td><td class="v">0</td></tr>
-<tr><td class="e">apc.ttl</td><td class="v">0</td><td class="v">0</td></tr>
-<tr><td class="e">apc.use_request_time</td><td class="v">Off</td><td class="v">Off</td></tr>
-</table>
 <h2><a name="module_calendar">calendar</a></h2>
 <table>
 <tr><td class="e">Calendar support </td><td class="v">enabled </td></tr>
@@ -369,8 +336,8 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <h2><a name="module_gd">gd</a></h2>
 <table>
 <tr><td class="e">GD Support </td><td class="v">enabled </td></tr>
-<tr><td class="e">GD headers Version </td><td class="v">2.3.0 </td></tr>
-<tr><td class="e">GD library Version </td><td class="v">2.3.0 </td></tr>
+<tr><td class="e">GD headers Version </td><td class="v">2.3.3 </td></tr>
+<tr><td class="e">GD library Version </td><td class="v">2.3.3 </td></tr>
 <tr><td class="e">FreeType Support </td><td class="v">enabled </td></tr>
 <tr><td class="e">FreeType Linkage </td><td class="v">with freetype </td></tr>
 <tr><td class="e">GIF Read Support </td><td class="v">enabled </td></tr>
@@ -559,7 +526,7 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <h2><a name="module_pcre">pcre</a></h2>
 <table>
 <tr><td class="e">PCRE (Perl Compatible Regular Expressions) Support </td><td class="v">enabled </td></tr>
-<tr><td class="e">PCRE Library Version </td><td class="v">10.39 2021-10-29 </td></tr>
+<tr><td class="e">PCRE Library Version </td><td class="v">10.40 2022-04-14 </td></tr>
 <tr><td class="e">PCRE Unicode Version </td><td class="v">14.0.0 </td></tr>
 <tr><td class="e">PCRE JIT Support </td><td class="v">enabled </td></tr>
 <tr><td class="e">PCRE JIT Target </td><td class="v">x86 64bit (little endian + unaligned) </td></tr>
@@ -764,19 +731,19 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">File Cache </td><td class="v">Disabled </td></tr>
 <tr><td class="e">Startup </td><td class="v">OK </td></tr>
 <tr><td class="e">Shared memory model </td><td class="v">mmap </td></tr>
-<tr><td class="e">Cache hits </td><td class="v">20564228 </td></tr>
-<tr><td class="e">Cache misses </td><td class="v">4114 </td></tr>
-<tr><td class="e">Used memory </td><td class="v">72337952 </td></tr>
-<tr><td class="e">Free memory </td><td class="v">445589640 </td></tr>
-<tr><td class="e">Wasted memory </td><td class="v">18943320 </td></tr>
+<tr><td class="e">Cache hits </td><td class="v">22345883 </td></tr>
+<tr><td class="e">Cache misses </td><td class="v">4045 </td></tr>
+<tr><td class="e">Used memory </td><td class="v">72112664 </td></tr>
+<tr><td class="e">Free memory </td><td class="v">445145632 </td></tr>
+<tr><td class="e">Wasted memory </td><td class="v">19612616 </td></tr>
 <tr><td class="e">Interned Strings Used memory </td><td class="v">6291008 </td></tr>
 <tr><td class="e">Interned Strings Free memory </td><td class="v">0 </td></tr>
-<tr><td class="e">Cached scripts </td><td class="v">2952 </td></tr>
-<tr><td class="e">Cached keys </td><td class="v">5266 </td></tr>
+<tr><td class="e">Cached scripts </td><td class="v">2932 </td></tr>
+<tr><td class="e">Cached keys </td><td class="v">5199 </td></tr>
 <tr><td class="e">Max keys </td><td class="v">16229 </td></tr>
 <tr><td class="e">OOM restarts </td><td class="v">0 </td></tr>
 <tr><td class="e">Hash keys restarts </td><td class="v">0 </td></tr>
-<tr><td class="e">Manual restarts </td><td class="v">6 </td></tr>
+<tr><td class="e">Manual restarts </td><td class="v">0 </td></tr>
 </table>
 <table>
 <tr class="h"><th>Directive</th><th>Local Value</th><th>Master Value</th></tr>
@@ -857,7 +824,7 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">$_SERVER['REQUEST_METHOD']</td><td class="v">GET</td></tr>
 <tr><td class="e">$_SERVER['SERVER_PROTOCOL']</td><td class="v">HTTP/1.1</td></tr>
 <tr><td class="e">$_SERVER['GATEWAY_INTERFACE']</td><td class="v">CGI/1.1</td></tr>
-<tr><td class="e">$_SERVER['REMOTE_PORT']</td><td class="v">43208</td></tr>
+<tr><td class="e">$_SERVER['REMOTE_PORT']</td><td class="v">45870</td></tr>
 <tr><td class="e">$_SERVER['SCRIPT_FILENAME']</td><td class="v">/var/www/html/phpinfo.php</td></tr>
 <tr><td class="e">$_SERVER['SERVER_ADMIN']</td><td class="v">webmaster@localhost</td></tr>
 <tr><td class="e">$_SERVER['CONTEXT_DOCUMENT_ROOT']</td><td class="v">/var/www/html</td></tr>
@@ -879,13 +846,13 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">$_SERVER['HTTP_HOST']</td><td class="v">wq-v</td></tr>
 <tr><td class="e">$_SERVER['HTTP_CONNECTION']</td><td class="v">keep-alive</td></tr>
 <tr><td class="e">$_SERVER['HTTP_REFERER']</td><td class="v">http://wq-v/</td></tr>
-<tr><td class="e">$_SERVER['HTTP_IF_MODIFIED_SINCE']</td><td class="v">Mon, 25 Jul 2022 04:00:28 GMT</td></tr>
+<tr><td class="e">$_SERVER['HTTP_IF_MODIFIED_SINCE']</td><td class="v">Mon, 01 Aug 2022 04:00:16 GMT</td></tr>
 <tr><td class="e">$_SERVER['proxy-nokeepalive']</td><td class="v">1</td></tr>
-<tr><td class="e">$_SERVER['UNIQUE_ID']</td><td class="v">YudP0KNEDWXpFLPfW26AMQAAAJI</td></tr>
+<tr><td class="e">$_SERVER['UNIQUE_ID']</td><td class="v">YvCKXZoHrbL7lgTaXLg-cgAAAIE</td></tr>
 <tr><td class="e">$_SERVER['FCGI_ROLE']</td><td class="v">RESPONDER</td></tr>
 <tr><td class="e">$_SERVER['PHP_SELF']</td><td class="v">/phpinfo.php</td></tr>
-<tr><td class="e">$_SERVER['REQUEST_TIME_FLOAT']</td><td class="v">1659326416.1153</td></tr>
-<tr><td class="e">$_SERVER['REQUEST_TIME']</td><td class="v">1659326416</td></tr>
+<tr><td class="e">$_SERVER['REQUEST_TIME_FLOAT']</td><td class="v">1659931229.0623</td></tr>
+<tr><td class="e">$_SERVER['REQUEST_TIME']</td><td class="v">1659931229</td></tr>
 </table>
 <hr />
 <h1>PHP Credits</h1>
@@ -1029,5 +996,5 @@ This program is free software; you can redistribute it and/or modify it under th
 </td></tr>
 </table>
 </div></body>
-<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Aug 2022 04:00:17 GMT -->
+<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Aug 2022 04:23:19 GMT -->
 </html>

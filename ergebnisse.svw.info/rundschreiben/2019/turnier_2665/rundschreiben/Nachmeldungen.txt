@@ -1,0 +1,3 @@
+Nachmeldungen
+
+Wenn Sie einen Spieler im portal nachmelden wollen, erscheint ein Button `Spieler streichen´. Dies betrifft Sie nicht, wenn sie noch keine 16 Spieler gemeldet haben. Haben sie weniger als 16 Spieler gemeldet, klicken sie einfach auf `weiter´ und sie können einen zusätzlichen Spieler melden. 
