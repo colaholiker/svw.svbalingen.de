@@ -1,8 +1,8 @@
-mem_used.value 88179496
-mem_free.value 424824128
-mem_wasted.value 23867288
-hitrate.value 99.97
-hits.value 18262327
-misses.value 5511
-used_keys.value 8244
-free_keys.value 7985
+mem_used.value 80481952
+mem_free.value 28316704
+mem_wasted.value 25419072
+hitrate.value 99.99
+hits.value 31424877
+misses.value 4619
+used_keys.value 5377
+free_keys.value 10852
