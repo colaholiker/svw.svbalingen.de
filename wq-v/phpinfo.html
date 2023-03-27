@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Mar 2023 05:26:31 GMT -->
+<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Mar 2023 04:26:39 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <style type="text/css">
@@ -82,7 +82,8 @@ hr {width: 934px; background-color: #ccc; border: 0; height: 1px;}
 /etc/php/8.2/fpm/conf.d/20-tokenizer.ini,
 /etc/php/8.2/fpm/conf.d/20-xmlreader.ini,
 /etc/php/8.2/fpm/conf.d/20-xmlwriter.ini,
-/etc/php/8.2/fpm/conf.d/20-xsl.ini
+/etc/php/8.2/fpm/conf.d/20-xsl.ini,
+/etc/php/8.2/fpm/conf.d/99_typo3_svbalingen.ini
  </td></tr>
 <tr><td class="e">PHP API </td><td class="v">20220829 </td></tr>
 <tr><td class="e">PHP Extension </td><td class="v">20220829 </td></tr>
@@ -120,7 +121,7 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <table>
 <tr class="h"><th>Directive</th><th>Local Value</th><th>Master Value</th></tr>
 <tr><td class="e">apc.coredump_unmap</td><td class="v">Off</td><td class="v">Off</td></tr>
-<tr><td class="e">apc.enable_cli</td><td class="v">Off</td><td class="v">Off</td></tr>
+<tr><td class="e">apc.enable_cli</td><td class="v">On</td><td class="v">On</td></tr>
 <tr><td class="e">apc.enabled</td><td class="v">On</td><td class="v">On</td></tr>
 <tr><td class="e">apc.entries_hint</td><td class="v">4096</td><td class="v">4096</td></tr>
 <tr><td class="e">apc.gc_ttl</td><td class="v">3600</td><td class="v">3600</td></tr>
@@ -128,7 +129,7 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">apc.preload_path</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
 <tr><td class="e">apc.serializer</td><td class="v">php</td><td class="v">php</td></tr>
 <tr><td class="e">apc.shm_segments</td><td class="v">1</td><td class="v">1</td></tr>
-<tr><td class="e">apc.shm_size</td><td class="v">32M</td><td class="v">32M</td></tr>
+<tr><td class="e">apc.shm_size</td><td class="v">512M</td><td class="v">512M</td></tr>
 <tr><td class="e">apc.slam_defense</td><td class="v">Off</td><td class="v">Off</td></tr>
 <tr><td class="e">apc.smart</td><td class="v">0</td><td class="v">0</td></tr>
 <tr><td class="e">apc.ttl</td><td class="v">0</td><td class="v">0</td></tr>
@@ -213,18 +214,18 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">mail.add_x_header</td><td class="v">Off</td><td class="v">Off</td></tr>
 <tr><td class="e">mail.force_extra_parameters</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
 <tr><td class="e">mail.log</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
-<tr><td class="e">max_execution_time</td><td class="v">30</td><td class="v">30</td></tr>
+<tr><td class="e">max_execution_time</td><td class="v">240</td><td class="v">240</td></tr>
 <tr><td class="e">max_file_uploads</td><td class="v">20</td><td class="v">20</td></tr>
 <tr><td class="e">max_input_nesting_level</td><td class="v">64</td><td class="v">64</td></tr>
 <tr><td class="e">max_input_time</td><td class="v">60</td><td class="v">60</td></tr>
-<tr><td class="e">max_input_vars</td><td class="v">1000</td><td class="v">1000</td></tr>
+<tr><td class="e">max_input_vars</td><td class="v">1500</td><td class="v">1500</td></tr>
 <tr><td class="e">max_multipart_body_parts</td><td class="v">-1</td><td class="v">-1</td></tr>
-<tr><td class="e">memory_limit</td><td class="v">128M</td><td class="v">128M</td></tr>
+<tr><td class="e">memory_limit</td><td class="v">512M</td><td class="v">512M</td></tr>
 <tr><td class="e">open_basedir</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
 <tr><td class="e">output_buffering</td><td class="v">4096</td><td class="v">4096</td></tr>
 <tr><td class="e">output_encoding</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
 <tr><td class="e">output_handler</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
-<tr><td class="e">post_max_size</td><td class="v">8M</td><td class="v">8M</td></tr>
+<tr><td class="e">post_max_size</td><td class="v">10M</td><td class="v">10M</td></tr>
 <tr><td class="e">precision</td><td class="v">14</td><td class="v">14</td></tr>
 <tr><td class="e">realpath_cache_size</td><td class="v">4096K</td><td class="v">4096K</td></tr>
 <tr><td class="e">realpath_cache_ttl</td><td class="v">120</td><td class="v">120</td></tr>
@@ -243,7 +244,7 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">syslog.filter</td><td class="v">no-ctrl</td><td class="v">no-ctrl</td></tr>
 <tr><td class="e">syslog.ident</td><td class="v">php</td><td class="v">php</td></tr>
 <tr><td class="e">unserialize_callback_func</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
-<tr><td class="e">upload_max_filesize</td><td class="v">2M</td><td class="v">2M</td></tr>
+<tr><td class="e">upload_max_filesize</td><td class="v">10M</td><td class="v">10M</td></tr>
 <tr><td class="e">upload_tmp_dir</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
 <tr><td class="e">user_dir</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
 <tr><td class="e">user_ini.cache_ttl</td><td class="v">300</td><td class="v">300</td></tr>
@@ -692,19 +693,19 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">JIT </td><td class="v">Disabled </td></tr>
 <tr><td class="e">Startup </td><td class="v">OK </td></tr>
 <tr><td class="e">Shared memory model </td><td class="v">mmap </td></tr>
-<tr><td class="e">Cache hits </td><td class="v">31424876 </td></tr>
-<tr><td class="e">Cache misses </td><td class="v">4619 </td></tr>
-<tr><td class="e">Used memory </td><td class="v">80481952 </td></tr>
-<tr><td class="e">Free memory </td><td class="v">28316704 </td></tr>
-<tr><td class="e">Wasted memory </td><td class="v">25419072 </td></tr>
-<tr><td class="e">Interned Strings Used memory </td><td class="v">6290992 </td></tr>
-<tr><td class="e">Interned Strings Free memory </td><td class="v">0 </td></tr>
-<tr><td class="e">Cached scripts </td><td class="v">3159 </td></tr>
-<tr><td class="e">Cached keys </td><td class="v">5377 </td></tr>
+<tr><td class="e">Cache hits </td><td class="v">1846090 </td></tr>
+<tr><td class="e">Cache misses </td><td class="v">2316 </td></tr>
+<tr><td class="e">Used memory </td><td class="v">54452200 </td></tr>
+<tr><td class="e">Free memory </td><td class="v">77359744 </td></tr>
+<tr><td class="e">Wasted memory </td><td class="v">2405784 </td></tr>
+<tr><td class="e">Interned Strings Used memory </td><td class="v">6290984 </td></tr>
+<tr><td class="e">Interned Strings Free memory </td><td class="v">8 </td></tr>
+<tr><td class="e">Cached scripts </td><td class="v">2184 </td></tr>
+<tr><td class="e">Cached keys </td><td class="v">3754 </td></tr>
 <tr><td class="e">Max keys </td><td class="v">16229 </td></tr>
 <tr><td class="e">OOM restarts </td><td class="v">0 </td></tr>
 <tr><td class="e">Hash keys restarts </td><td class="v">0 </td></tr>
-<tr><td class="e">Manual restarts </td><td class="v">16 </td></tr>
+<tr><td class="e">Manual restarts </td><td class="v">0 </td></tr>
 </table>
 <table>
 <tr class="h"><th>Directive</th><th>Local Value</th><th>Master Value</th></tr>
@@ -797,7 +798,7 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">$_SERVER['REQUEST_METHOD']</td><td class="v">GET</td></tr>
 <tr><td class="e">$_SERVER['SERVER_PROTOCOL']</td><td class="v">HTTP/1.1</td></tr>
 <tr><td class="e">$_SERVER['GATEWAY_INTERFACE']</td><td class="v">CGI/1.1</td></tr>
-<tr><td class="e">$_SERVER['REMOTE_PORT']</td><td class="v">50188</td></tr>
+<tr><td class="e">$_SERVER['REMOTE_PORT']</td><td class="v">58448</td></tr>
 <tr><td class="e">$_SERVER['SCRIPT_FILENAME']</td><td class="v">/var/www/html/phpinfo.php</td></tr>
 <tr><td class="e">$_SERVER['SERVER_ADMIN']</td><td class="v">webmaster@localhost</td></tr>
 <tr><td class="e">$_SERVER['CONTEXT_DOCUMENT_ROOT']</td><td class="v">/var/www/html</td></tr>
@@ -819,13 +820,13 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">$_SERVER['HTTP_HOST']</td><td class="v">wq-v</td></tr>
 <tr><td class="e">$_SERVER['HTTP_CONNECTION']</td><td class="v">keep-alive</td></tr>
 <tr><td class="e">$_SERVER['HTTP_REFERER']</td><td class="v">http://wq-v/</td></tr>
-<tr><td class="e">$_SERVER['HTTP_IF_MODIFIED_SINCE']</td><td class="v">Mon, 13 Mar 2023 05:00:27 GMT</td></tr>
+<tr><td class="e">$_SERVER['HTTP_IF_MODIFIED_SINCE']</td><td class="v">Mon, 20 Mar 2023 05:00:31 GMT</td></tr>
 <tr><td class="e">$_SERVER['proxy-nokeepalive']</td><td class="v">1</td></tr>
-<tr><td class="e">$_SERVER['UNIQUE_ID']</td><td class="v">ZBfobzBw_LzTVlO_nwoB7AAAAEA</td></tr>
+<tr><td class="e">$_SERVER['UNIQUE_ID']</td><td class="v">ZCEU45T349U1GzaKXh2cVAAAAMY</td></tr>
 <tr><td class="e">$_SERVER['FCGI_ROLE']</td><td class="v">RESPONDER</td></tr>
 <tr><td class="e">$_SERVER['PHP_SELF']</td><td class="v">/phpinfo.php</td></tr>
-<tr><td class="e">$_SERVER['REQUEST_TIME_FLOAT']</td><td class="v">1679288431.1259</td></tr>
-<tr><td class="e">$_SERVER['REQUEST_TIME']</td><td class="v">1679288431</td></tr>
+<tr><td class="e">$_SERVER['REQUEST_TIME_FLOAT']</td><td class="v">1679889635.114</td></tr>
+<tr><td class="e">$_SERVER['REQUEST_TIME']</td><td class="v">1679889635</td></tr>
 </table>
 <hr />
 <h1>PHP Credits</h1>
@@ -969,5 +970,5 @@ This program is free software; you can redistribute it and/or modify it under th
 </td></tr>
 </table>
 </div></body>
-<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 20 Mar 2023 05:26:31 GMT -->
+<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Mar 2023 04:26:39 GMT -->
 </html>
