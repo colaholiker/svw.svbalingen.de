@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 May 2023 04:26:39 GMT -->
+<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Jun 2023 04:26:40 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <style type="text/css">
@@ -58,6 +58,7 @@ hr {width: 934px; background-color: #ccc; border: 0; height: 1px;}
 /etc/php/8.2/fpm/conf.d/20-bz2.ini,
 /etc/php/8.2/fpm/conf.d/20-calendar.ini,
 /etc/php/8.2/fpm/conf.d/20-ctype.ini,
+/etc/php/8.2/fpm/conf.d/20-curl.ini,
 /etc/php/8.2/fpm/conf.d/20-dom.ini,
 /etc/php/8.2/fpm/conf.d/20-exif.ini,
 /etc/php/8.2/fpm/conf.d/20-ffi.ini,
@@ -266,6 +267,47 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <h2><a name="module_ctype" href="#module_ctype">ctype</a></h2>
 <table>
 <tr><td class="e">ctype functions </td><td class="v">enabled </td></tr>
+</table>
+<h2><a name="module_curl" href="#module_curl">curl</a></h2>
+<table>
+<tr><td class="e">cURL support </td><td class="v">enabled </td></tr>
+<tr><td class="e">cURL Information </td><td class="v">7.68.0 </td></tr>
+<tr><td class="e">Age </td><td class="v">5 </td></tr>
+<tr><td class="e">Features </td></tr>
+<tr><td class="e">AsynchDNS </td><td class="v">Yes </td></tr>
+<tr><td class="e">CharConv </td><td class="v">No </td></tr>
+<tr><td class="e">Debug </td><td class="v">No </td></tr>
+<tr><td class="e">GSS-Negotiate </td><td class="v">No </td></tr>
+<tr><td class="e">IDN </td><td class="v">Yes </td></tr>
+<tr><td class="e">IPv6 </td><td class="v">Yes </td></tr>
+<tr><td class="e">krb4 </td><td class="v">No </td></tr>
+<tr><td class="e">Largefile </td><td class="v">Yes </td></tr>
+<tr><td class="e">libz </td><td class="v">Yes </td></tr>
+<tr><td class="e">NTLM </td><td class="v">Yes </td></tr>
+<tr><td class="e">NTLMWB </td><td class="v">Yes </td></tr>
+<tr><td class="e">SPNEGO </td><td class="v">Yes </td></tr>
+<tr><td class="e">SSL </td><td class="v">Yes </td></tr>
+<tr><td class="e">SSPI </td><td class="v">No </td></tr>
+<tr><td class="e">TLS-SRP </td><td class="v">Yes </td></tr>
+<tr><td class="e">HTTP2 </td><td class="v">Yes </td></tr>
+<tr><td class="e">GSSAPI </td><td class="v">Yes </td></tr>
+<tr><td class="e">KERBEROS5 </td><td class="v">Yes </td></tr>
+<tr><td class="e">UNIX_SOCKETS </td><td class="v">Yes </td></tr>
+<tr><td class="e">PSL </td><td class="v">Yes </td></tr>
+<tr><td class="e">HTTPS_PROXY </td><td class="v">Yes </td></tr>
+<tr><td class="e">MULTI_SSL </td><td class="v">No </td></tr>
+<tr><td class="e">BROTLI </td><td class="v">Yes </td></tr>
+<tr><td class="e">ALTSVC </td><td class="v">No </td></tr>
+<tr><td class="e">HTTP3 </td><td class="v">No </td></tr>
+<tr><td class="e">Protocols </td><td class="v">dict, file, ftp, ftps, gopher, http, https, imap, imaps, ldap, ldaps, pop3, pop3s, rtmp, rtsp, scp, sftp, smb, smbs, smtp, smtps, telnet, tftp </td></tr>
+<tr><td class="e">Host </td><td class="v">x86_64-pc-linux-gnu </td></tr>
+<tr><td class="e">SSL Version </td><td class="v">OpenSSL/1.1.1f </td></tr>
+<tr><td class="e">ZLib Version </td><td class="v">1.2.11 </td></tr>
+<tr><td class="e">libSSH Version </td><td class="v">libssh/0.9.3/openssl/zlib </td></tr>
+</table>
+<table>
+<tr class="h"><th>Directive</th><th>Local Value</th><th>Master Value</th></tr>
+<tr><td class="e">curl.cainfo</td><td class="v"><i>no value</i></td><td class="v"><i>no value</i></td></tr>
 </table>
 <h2><a name="module_date" href="#module_date">date</a></h2>
 <table>
@@ -695,19 +737,19 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">JIT </td><td class="v">Disabled </td></tr>
 <tr><td class="e">Startup </td><td class="v">OK </td></tr>
 <tr><td class="e">Shared memory model </td><td class="v">mmap </td></tr>
-<tr><td class="e">Cache hits </td><td class="v">16217005 </td></tr>
-<tr><td class="e">Cache misses </td><td class="v">2725 </td></tr>
-<tr><td class="e">Used memory </td><td class="v">58220064 </td></tr>
-<tr><td class="e">Free memory </td><td class="v">68821640 </td></tr>
-<tr><td class="e">Wasted memory </td><td class="v">7176024 </td></tr>
-<tr><td class="e">Interned Strings Used memory </td><td class="v">6290976 </td></tr>
-<tr><td class="e">Interned Strings Free memory </td><td class="v">16 </td></tr>
-<tr><td class="e">Cached scripts </td><td class="v">2318 </td></tr>
-<tr><td class="e">Cached keys </td><td class="v">4005 </td></tr>
+<tr><td class="e">Cache hits </td><td class="v">30588357 </td></tr>
+<tr><td class="e">Cache misses </td><td class="v">5325 </td></tr>
+<tr><td class="e">Used memory </td><td class="v">102334408 </td></tr>
+<tr><td class="e">Free memory </td><td class="v">20539232 </td></tr>
+<tr><td class="e">Wasted memory </td><td class="v">11344088 </td></tr>
+<tr><td class="e">Interned Strings Used memory </td><td class="v">6290968 </td></tr>
+<tr><td class="e">Interned Strings Free memory </td><td class="v">24 </td></tr>
+<tr><td class="e">Cached scripts </td><td class="v">4595 </td></tr>
+<tr><td class="e">Cached keys </td><td class="v">8336 </td></tr>
 <tr><td class="e">Max keys </td><td class="v">16229 </td></tr>
-<tr><td class="e">OOM restarts </td><td class="v">3 </td></tr>
+<tr><td class="e">OOM restarts </td><td class="v">0 </td></tr>
 <tr><td class="e">Hash keys restarts </td><td class="v">0 </td></tr>
-<tr><td class="e">Manual restarts </td><td class="v">6 </td></tr>
+<tr><td class="e">Manual restarts </td><td class="v">5 </td></tr>
 </table>
 <table>
 <tr class="h"><th>Directive</th><th>Local Value</th><th>Master Value</th></tr>
@@ -800,7 +842,7 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">$_SERVER['REQUEST_METHOD']</td><td class="v">GET</td></tr>
 <tr><td class="e">$_SERVER['SERVER_PROTOCOL']</td><td class="v">HTTP/1.1</td></tr>
 <tr><td class="e">$_SERVER['GATEWAY_INTERFACE']</td><td class="v">CGI/1.1</td></tr>
-<tr><td class="e">$_SERVER['REMOTE_PORT']</td><td class="v">34054</td></tr>
+<tr><td class="e">$_SERVER['REMOTE_PORT']</td><td class="v">51514</td></tr>
 <tr><td class="e">$_SERVER['SCRIPT_FILENAME']</td><td class="v">/var/www/html/phpinfo.php</td></tr>
 <tr><td class="e">$_SERVER['SERVER_ADMIN']</td><td class="v">webmaster@localhost</td></tr>
 <tr><td class="e">$_SERVER['CONTEXT_DOCUMENT_ROOT']</td><td class="v">/var/www/html</td></tr>
@@ -822,13 +864,13 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">$_SERVER['HTTP_HOST']</td><td class="v">wq-v</td></tr>
 <tr><td class="e">$_SERVER['HTTP_CONNECTION']</td><td class="v">keep-alive</td></tr>
 <tr><td class="e">$_SERVER['HTTP_REFERER']</td><td class="v">http://wq-v/</td></tr>
-<tr><td class="e">$_SERVER['HTTP_IF_MODIFIED_SINCE']</td><td class="v">Mon, 22 May 2023 04:00:37 GMT</td></tr>
+<tr><td class="e">$_SERVER['HTTP_IF_MODIFIED_SINCE']</td><td class="v">Mon, 29 May 2023 04:00:37 GMT</td></tr>
 <tr><td class="e">$_SERVER['proxy-nokeepalive']</td><td class="v">1</td></tr>
-<tr><td class="e">$_SERVER['UNIQUE_ID']</td><td class="v">ZHQjZYE07EnpMwJpvJwlgwAAAIM</td></tr>
+<tr><td class="e">$_SERVER['UNIQUE_ID']</td><td class="v">ZH1d5TPvMWwTi-870JrYsAAAAAI</td></tr>
 <tr><td class="e">$_SERVER['FCGI_ROLE']</td><td class="v">RESPONDER</td></tr>
 <tr><td class="e">$_SERVER['PHP_SELF']</td><td class="v">/phpinfo.php</td></tr>
-<tr><td class="e">$_SERVER['REQUEST_TIME_FLOAT']</td><td class="v">1685332837.057</td></tr>
-<tr><td class="e">$_SERVER['REQUEST_TIME']</td><td class="v">1685332837</td></tr>
+<tr><td class="e">$_SERVER['REQUEST_TIME_FLOAT']</td><td class="v">1685937637.132</td></tr>
+<tr><td class="e">$_SERVER['REQUEST_TIME']</td><td class="v">1685937637</td></tr>
 </table>
 <hr />
 <h1>PHP Credits</h1>
@@ -972,5 +1014,5 @@ This program is free software; you can redistribute it and/or modify it under th
 </td></tr>
 </table>
 </div></body>
-<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 May 2023 04:26:39 GMT -->
+<!-- Mirrored from wq-v/phpinfo.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Jun 2023 04:26:40 GMT -->
 </html>
