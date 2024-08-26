@@ -1,0 +1,767 @@
+[Event "SG Schwäbisch Gmünd - SF Deizisau 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.1"]
+[White "Dabo-Peranic, Robert"]
+[Black "Velicka, Petr"]
+[Result "0-1"]
+[ECO "C49"]
+[WhiteElo "2323"]
+[BlackElo "2355"]
+[PlyCount "102"]
+[EventDate "2023.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Bxc6 dxc6 7. Nxe5 Bxc3
+8. dxc3 Qxd1 9. Rxd1 Nxe4 10. f3 Nd6 11. Bf4 Be6 12. b3 Rad8 13. Nd3 Bc8 14. c4
+b6 15. c5 Nb5 16. c4 Nc3 17. Rd2 Rxd3 18. Rxd3 Ne2+ 19. Kf2 Nxf4 20. Rd2 bxc5
+21. Re1 Ne6 22. g3 f6 23. f4 f5 24. Re5 g6 25. h4 Kg7 26. h5 g5 27. Ke3 Kf6 28.
+h6 Rg8 29. Rf2 gxf4+ 30. gxf4 Rg3+ 31. Rf3 Rg6 32. a3 Rxh6 33. b4 Rh2 34. bxc5
+Ra2 35. Rf1 Rxa3+ 36. Kd2 Bd7 37. Ree1 h5 38. Rg1 Be8 39. Rg8 Bf7 40. Rc8 h4
+41. Re3 Ra2+ 42. Kc3 Rf2 43. Rh8 Rxf4 44. Rh3 Kg5 45. Kb4 Nxc5 46. Ka5 Bxc4 47.
+Rc3 Nb7+ 48. Kb4 Bd5+ 49. Ka3 Nd6 50. Rc1 Nb5+ 51. Kb2 Rf2+ 0-1
+
+[Event "SG Schwäbisch Gmünd - SF Deizisau 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.2"]
+[White "Jurek, Josef"]
+[Black "Bronznik, Valerij"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2247"]
+[BlackElo "2278"]
+[PlyCount "10"]
+[EventDate "2023.??.??"]
+
+1. Nf3 d5 2. d4 Nc6 3. g3 Bf5 4. Bg2 e6 5. O-O Nb4 1/2-1/2
+
+[Event "SG Schwäbisch Gmünd - SF Deizisau 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.3"]
+[White "Koellner, Aaron Noah"]
+[Black "Flajsman, Pavel"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "2142"]
+[BlackElo "2181"]
+[PlyCount "84"]
+[EventDate "2023.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. e3 Bg7 5. b4 O-O 6. c4 Bf5 7. a4 a5 8. b5 Ne4
+9. cxd5 Nxd2 10. Nxd2 Qxd5 11. Ba3 Re8 12. Qf3 Qxf3 13. Nxf3 Nd7 14. Rc1 e5 15.
+dxe5 Nxe5 16. Nxe5 Bxe5 17. Bc4 Rad8 18. Ke2 Bg4+ 19. Kf1 Rd2 20. h3 Bf5 21.
+Be2 Ra2 22. Bc5 b6 23. Bc4 Rxa4 24. Bb3 Ra1 25. Rxa1 Bxa1 26. Ke2 Bb2 27. g4
+Bd7 28. Rb1 Be5 29. Ba3 Bxb5+ 30. Kf3 Bc6+ 31. Ke2 b5 32. Bc5 b4 33. Bc4 Rd8
+34. f3 Bc3 35. e4 Rd2+ 36. Ke3 Ba4 37. Bd3 Rd1 38. f4 Bd2+ 39. Kf3 Rxb1 40.
+Bxb1 Bd1+ 41. Kg3 b3 42. f5 Bc2 0-1
+
+[Event "SG Schwäbisch Gmünd - SF Deizisau 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.4"]
+[White "Hoenick, Andreas"]
+[Black "Ruf, Matthias"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2120"]
+[BlackElo "2320"]
+[PlyCount "59"]
+[EventDate "2023.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 c6 7. Nf3 a6 8. a4 a5
+9. Be2 Na6 10. O-O b6 11. Re1 Nd7 12. Qd2 Re8 13. Rad1 Bb7 14. Bf1 Nb4 15. Bh6
+Bh8 16. e5 dxe5 17. dxe5 Nc5 18. Qf4 Qc7 19. Qh4 Rad8 20. Rxd8 Rxd8 21. e6 f6
+22. Be3 Nbd3 23. Re2 Bg7 24. Rd2 Bc8 25. Nd4 g5 26. Qh5 Ne5 27. Ndb5 cxb5 28.
+Nxb5 Nxe6 29. Nxc7 Rxd2 30. Qe8+ 1-0
+
+[Event "SG Schwäbisch Gmünd - SF Deizisau 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.5"]
+[White "Gustain, Marc"]
+[Black "Weiss, Andreas"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2177"]
+[BlackElo "2126"]
+[PlyCount "69"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. g3 Nc6 5. Bg2 g6 6. d4 cxd4 7. Nxd4 Bg7 8. Be3
+Qc7 9. Qd2 Nge7 10. O-O-O O-O 11. h4 Ne5 12. Bf4 d6 13. Bxe5 dxe5 14. Nb3 Nc6
+15. Qd6 Qxd6 16. Rxd6 Nd4 17. Rd1 Bf6 18. Nxd4 exd4 19. Ne2 Be5 20. Rb6 Bc7 21.
+Rb3 e5 22. c3 dxc3 23. Nxc3 b5 24. Nd5 Bd8 25. Rbd3 Kg7 26. f3 Be6 27. R1d2 Rb8
+28. a3 Bb6 29. Nxb6 Rxb6 30. b4 Rc6+ 31. Rc2 Rfc8 32. Rxc6 Rxc6+ 33. Kb2 Kf6
+34. Bf1 Ke7 35. Be2 1/2-1/2
+
+[Event "SG Schwäbisch Gmünd - SF Deizisau 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.6"]
+[White "Lankes, Erich"]
+[Black "Valkova, Angelika"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2167"]
+[BlackElo "2059"]
+[PlyCount "15"]
+[EventDate "2023.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Bg4 4. Be2 Nc6 5. d4 e5 6. dxe5 Bxf3 7. Bxf3 Qxe5+
+8. Qe2 1/2-1/2
+
+[Event "SG Schwäbisch Gmünd - SF Deizisau 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.7"]
+[White "Brenner, Markus"]
+[Black "Pohl, Walter"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "2092"]
+[BlackElo "2117"]
+[PlyCount "30"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. c4 e5 6. Nc3 d6 7. Nge2 g6 8. Bc2
+Be6 9. b3 Qd7 10. Ba3 f5 11. f3 Nf6 12. Qd3 Rd8 13. Rd1 Kf7 14. Nb5 Ne8 15. Qe3
+f4 1/2-1/2
+
+[Event "SG Schwäbisch Gmünd - SF Deizisau 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.8"]
+[White "Sturm, Bernhard"]
+[Black "Rempeli, Alex"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "1999"]
+[BlackElo "2081"]
+[PlyCount "60"]
+[EventDate "2023.??.??"]
+
+1. b3 d5 2. Bb2 e6 3. e3 Nf6 4. f4 Bd6 5. Nf3 O-O 6. Be2 c5 7. O-O Nbd7 8. Na3
+a6 9. c4 d4 10. Nc2 Qc7 11. exd4 Bxf4 12. Ne3 cxd4 13. g3 dxe3 14. gxf4 Qxf4
+15. dxe3 Qxe3+ 16. Kh1 b6 17. Bd4 Qf4 18. Qd3 Bb7 19. Be3 Qg4 20. Qd4 Qh3 21.
+Kg1 Ng4 22. Bf4 Rad8 23. Bg5 e5 24. Qd2 Ndf6 25. Qc1 e4 26. Bxf6 exf3 27. Rf2
+Nxf2 28. Qg5 Qg2+ 29. Qxg2 fxg2 30. Bxd8 Nh3# 0-1
+
+[Event "SC Böblingen - SK Schwäbisch Hall"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.1"]
+[White "Jacko, Vladimir"]
+[Black "Gaehwiler, Gabriel"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2362"]
+[BlackElo "2404"]
+[PlyCount "65"]
+[EventDate "2023.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. d4 c5 6. Nc3 cxd4 7. Qxd4 Nc6 8.
+Qa4 Be6 9. f4 g6 10. f5 gxf5 11. exf5 Bxf5 12. Bg5 Kg6 13. h4 Qa5 14. h5+ Nxh5
+15. Qh4 Ng3 16. O-O-O Nxh1 17. Be2 h5 18. Nd5 Qc5 19. Bc4 Rh6 20. Be3 Qxe3+ 21.
+Nxe3 Be7 22. Qf4 Rf8 23. Rxh1 Bg5 24. Qxd6+ Rf6 25. Qa3 Rh8 26. Kb1 Be4 27. Bd5
+Re8 28. Bxe4+ Rxe4 29. Qd3 Rfe6 30. Nd5 Kg7 31. a3 Rd4 32. Qb5 b6 33. Nb4 1-0
+
+[Event "SC Böblingen - SK Schwäbisch Hall"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.2"]
+[White "Ortmann, David"]
+[Black "Manoeuvre, Antoine"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2310"]
+[BlackElo "2313"]
+[PlyCount "33"]
+[EventDate "2023.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+Ng4 9. Bg5 Bf6 10. Bc1 exd4 11. Nxd4 Nge5 12. Nd5 Bg7 13. f4 Nc6 14. Be3 Nc5
+15. Bf3 Ne6 16. Nxe6 fxe6 17. Nc3 1/2-1/2
+
+[Event "SC Böblingen - SK Schwäbisch Hall"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.3"]
+[White "Khalafova, Narmin"]
+[Black "Seitz, Patrick"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2261"]
+[BlackElo "2225"]
+[PlyCount "104"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. b3 e5 3. Bb2 d6 4. Bc4 Nf6 5. Nc3 Be7 6. Nge2 Nc6 7. O-O g5 8. Ng3
+h5 9. Nd5 Bg4 10. f3 Be6 11. Ne3 Ng8 12. f4 gxf4 13. Nxh5 Nf6 14. Ng7+ Kd7 15.
+Nd5 Qg8 16. Nxf6+ Bxf6 17. Nf5 Qh7 18. h3 Rag8 19. Rf3 Rg6 20. Bf1 Rhg8 21. c3
+Bxf5 22. exf5 Rg3 23. d4 exd4 24. cxd4 Nxd4 25. Rxf4 Qxh3 26. Qd2 Rf3 27. Rxd4
+Bxd4+ 28. Bxd4 cxd4 29. Rc1 Rc3 30. Re1 Re3 31. Rc1 Rc3 32. Re1 Qxf5 33. b4 Qf6
+34. Re4 Rf3 35. Bb5+ Kc7 36. Rxd4 Rfg3 37. Bf1 R3g6 38. Rf4 Qe6 39. Qf2 Kb8 40.
+Rxf7 Qd5 41. Rf8+ Kc7 42. Rf7+ Kd8 43. Rh7 Rg4 44. Qf6+ Kc8 45. Qc3+ Kb8 46.
+Qc7+ Ka8 47. Rh2 Qd4+ 48. Kh1 Rh4 49. a3 Rgh8 50. Rh3 Qf2 51. Qc4 Rxh3+ 52.
+gxh3 d5 0-1
+
+[Event "SC Böblingen - SK Schwäbisch Hall"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.4"]
+[White "Mueller, Ralf"]
+[Black "Eric, Jovana"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2346"]
+[BlackElo "2213"]
+[PlyCount "103"]
+[EventDate "2023.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 O-O 6. Nc3 d5 7. e3 Qe7 8.
+Bd3 Rd8 9. O-O dxc4 10. Bxc4 c5 11. Qe2 Nc6 12. Rad1 Bd7 13. dxc5 Qxc5 14. e4
+Ng4 15. Bb3 Be8 16. Qb5 Qe7 17. Qh5 Nf6 18. Qh4 Qb4 19. Qf4 h6 20. h3 Na5 21.
+Rxd8 Rxd8 22. Qc7 Rd7 23. Qb8 Nc6 24. Qf4 Rd8 25. Qe3 Nd4 26. Nxd4 Qxd4 27.
+Qxd4 Rxd4 28. e5 Ne4 29. Rd1 Nxc3 30. bxc3 Rxd1+ 31. Bxd1 Bc6 32. f4 Kf8 33.
+Kf2 Ke7 34. g3 Bd5 35. a3 f6 36. Ke3 fxe5 37. fxe5 b6 38. h4 Kd7 39. Ba4+ Bc6
+40. Bb3 Ke7 41. Kf4 Bb5 42. Ke4 Bc6+ 43. Kd4 Kd7 44. Bc4 Ke7 45. Ba6 Kd7 46.
+Kc4 Kc7 47. Kb4 Bd5 48. Be2 Bc6 49. Kc4 Kd7 50. Kd4 Kc7 51. Bh5 Kd7 52. Be2
+1/2-1/2
+
+[Event "SC Böblingen - SK Schwäbisch Hall"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.5"]
+[White "Kapusta, Petr"]
+[Black "Tran, Thanh Kien"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2134"]
+[BlackElo "2155"]
+[PlyCount "81"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be7 8.
+Nd5 Nf6 9. Be3 Nxd5 10. exd5 Nb8 11. Nc4 Nd7 12. a4 O-O 13. a5 f5 14. f4 exf4
+15. Bxf4 b5 16. Nxd6 Bxd6 17. Bxd6 Re8+ 18. Be2 Qf6 19. Bg3 f4 20. O-O Qe5 21.
+Bh5 fxg3 22. Bxe8 gxh2+ 23. Kh1 Qxe8 24. Qf3 Nf6 25. Rae1 Qf7 26. d6 Bb7 27.
+Qg3 Ne4 28. Qh4 Qg6 29. d7 Nf6 30. Qh3 Nxd7 31. Re6 Nf6 32. Rb6 Bd5 33. Rf5 Rd8
+34. Rxd5 Re8 35. Re6 Rf8 36. Rd1 Qxc2 37. Red6 Ne4 38. Qe6+ Kh8 39. Rd8 Nf2+
+40. Kxh2 Ng4+ 41. Qxg4 1-0
+
+[Event "SC Böblingen - SK Schwäbisch Hall"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.6"]
+[White "Schuh, Karsten"]
+[Black "Bahmann, Micha"]
+[Result "0-1"]
+[ECO "D78"]
+[WhiteElo "2145"]
+[BlackElo "2060"]
+[PlyCount "116"]
+[EventDate "2023.??.??"]
+
+1. Nf3 d5 2. c4 c6 3. g3 Nf6 4. b3 g6 5. Bb2 Bg7 6. Bg2 O-O 7. O-O Re8 8. d4
+Ne4 9. Nc3 Bf5 10. Nh4 Nxc3 11. Bxc3 Be6 12. Qd3 Nd7 13. e4 dxc4 14. bxc4 Ne5
+15. Qc2 Nxc4 16. Rad1 Na3 17. Qd2 Nb5 18. Ba1 Qb6 19. a4 Nd6 20. Rb1 Qa6 21.
+Qb4 Rab8 22. Rfc1 b5 23. d5 cxd5 24. exd5 Bd7 25. Bxg7 Kxg7 26. axb5 Nxb5 27.
+Bf1 Qd6 28. Qd2 a6 29. Nf3 Rec8 30. Rxc8 Rxc8 31. Qb2+ Kg8 32. Ne5 Qxd5 33.
+Nxd7 Qxd7 34. Bxb5 axb5 35. Qxb5 Qd4 36. Qe2 Rc7 37. Rd1 Qc3 38. h4 h5 39. Qe4
+Kg7 40. Re1 e6 41. Qe5+ Qxe5 42. Rxe5 Kf6 43. Ra5 e5 44. Kg2 Kf5 45. Ra4 Re7
+46. Rb4 f6 47. Ra4 Rd7 48. Rb4 Rd4 49. Rb6 Rd2 50. Kf3 e4+ 51. Ke3 Rd3+ 52. Ke2
+Rf3 53. Ra6 Kg4 54. Re6 f5 55. Rxg6+ Kh3 56. Rg5 Kg2 57. Rxh5 Rxf2+ 58. Ke1
+Kxg3 0-1
+
+[Event "SC Böblingen - SK Schwäbisch Hall"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.7"]
+[White "Krenedics, Gregor"]
+[Black "Bauer, Peter"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "1997"]
+[BlackElo "2195"]
+[PlyCount "79"]
+[EventDate "2023.??.??"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 Nge7 6. Nge2 O-O 7. d4 d6 8. O-O
+h6 9. d5 Nb8 10. e4 f5 11. f4 Nd7 12. Qc2 a6 13. Bd2 Rb8 14. a4 Kh8 15. Rae1 c5
+16. b3 b6 17. Nd1 Nf6 18. Bc3 Nxe4 19. Bxe4 fxe4 20. fxe5 dxe5 21. Ne3 Bh3 22.
+Rxf8+ Qxf8 23. Qxe4 Re8 24. Ng2 Bf5 25. Qe3 Nc8 26. Rf1 Qd6 27. h4 Bc2 28. Ba1
+Bf5 29. h5 Ne7 30. Nc3 gxh5 31. Ne4 Qg6 32. Nh4 Qh7 33. Nd6 Rf8 34. Bxe5 Kg8
+35. Bxg7 Qxg7 36. Ndxf5 Nxf5 37. Rxf5 Rxf5 38. Nxf5 Qf6 39. Qe8+ Kh7 40. Qe7+
+1-0
+
+[Event "SC Böblingen - SK Schwäbisch Hall"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.8"]
+[White "Born, Mario"]
+[Black "Meinel, Boris"]
+[Result "1-0"]
+[ECO "E18"]
+[WhiteElo "2163"]
+[PlyCount "99"]
+[EventDate "2023.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. c4 b6 7. Nc3 Bb7 8. Ne5
+Nbd7 9. Qa4 Nxe5 10. dxe5 Nd7 11. cxd5 exd5 12. Nxd5 Nc5 13. Qd1 c6 14. Nf4 Qc7
+15. b4 Rad8 16. Qc2 Na6 17. a3 Qxe5 18. Bb2 Qb5 19. a4 Qg5 20. b5 Nb4 21. Qb3
+Ba8 22. h4 Qh6 23. bxc6 Nxc6 24. Nd5 Bc5 25. e4 Na5 26. Qd3 Nc6 27. Qc4 Na5 28.
+Qc2 Nc6 29. Rad1 Bb7 30. Bc1 Qg6 31. Bg5 Rb8 32. Kh2 Ba6 33. Nf4 Nb4 34. Nxg6
+Nxc2 35. Nxf8 Bxf1 36. Nd7 Be2 37. Rc1 Rb7 38. Nxc5 bxc5 39. Rxc2 Bg4 40. Rxc5
+h6 41. Be3 Be2 42. e5 Rb4 43. a5 a6 44. Rc8+ Kh7 45. Bd5 Rb5 46. Bxf7 Rxe5 47.
+Bb6 Bg4 48. Bg8+ Kg6 49. Rc6+ Kf5 50. Bh7+ 1-0
+
+[Event "SK Schmiden/Cannstatt - SK Bebenhausen"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.1"]
+[White "Braun, Georg"]
+[Black "Schmidt, Tobias"]
+[Result "1-0"]
+[ECO "D26"]
+[WhiteElo "2393"]
+[BlackElo "2221"]
+[PlyCount "119"]
+[EventDate "2023.??.??"]
+
+1. c4 e6 2. Nc3 Nf6 3. Nf3 d5 4. e3 dxc4 5. Bxc4 a6 6. d4 b5 7. Be2 Bb7 8. O-O
+Nbd7 9. b3 Bd6 10. Bb2 O-O 11. Rc1 Qe7 12. a4 b4 13. Nb1 e5 14. dxe5 Nxe5 15.
+Nd4 Rad8 16. Nd2 c5 17. Nf5 Qe6 18. Qc2 Bb8 19. Ng3 Rd7 20. Nc4 Qc6 21. f3 Nxc4
+22. Bxc4 Bxg3 23. hxg3 Qd6 24. g4 Qd2 25. e4 Rfd8 26. Qxd2 Rxd2 27. Be5 Rc8 28.
+Bf4 Rdd8 29. Rfd1 h6 30. Kf2 Rd7 31. Be3 Kf8 32. Bd3 Rdc7 33. Be2 Ke8 34. Bf4
+Rc6 35. Bc4 Nd7 36. Bxf7+ Ke7 37. Bd5 Rb6 38. Bc4 a5 39. Bb5 Nf8 40. Be3 Rd6
+41. Rxd6 Kxd6 42. Rd1+ Ke7 43. Ke2 Ba8 44. g3 Bb7 45. e5 Rc7 46. f4 Ne6 47. f5
+Nd4+ 48. Bxd4 cxd4 49. Rxd4 Bg2 50. Bc4 Bc6 51. Ke3 Be8 52. Kf4 Bc6 53. g5
+hxg5+ 54. Kxg5 Be8 55. g4 Rc8 56. Rd5 Bxa4 57. Rxa5 Be8 58. Ra7+ Kf8 59. Rb7
+Rd8 60. e6 1-0
+
+[Event "SK Schmiden/Cannstatt - SK Bebenhausen"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.2"]
+[White "Trachtmann, Mark"]
+[Black "Wendler, David"]
+[Result "1-0"]
+[ECO "A59"]
+[WhiteElo "2219"]
+[BlackElo "2243"]
+[PlyCount "95"]
+[EventDate "2023.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. g3 Bg7 10. Kg2 O-O 11. Nf3 Qb6 12. Re1 Na6 13. Rb1 Nc7 14. a4 Rfb8
+15. Bf4 Nd7 16. Bg5 h6 17. Bd2 Kh7 18. b3 Qa6 19. Qc2 Ne5 20. Nxe5 Bxe5 21. Nd1
+e6 22. Ne3 exd5 23. Nxd5 Nxd5 24. exd5 Rc8 25. Re4 h5 26. Qc4 Qxc4 27. Rxc4
+Rcb8 28. a5 Rb5 29. Ra4 Kg7 30. Kf3 Kf6 31. Ke4 Bd4 32. f3 Rbb8 33. b4 Ke7 34.
+b5 Kd7 35. Kd3 Bf6 36. Rf4 Ke7 37. b6 Bd4 38. Re4+ Kd7 39. Kc4 f5 40. Re6 Re8
+41. Rxe8 Rxe8 42. a6 Kc8 43. Bf4 Be5 44. Bxe5 dxe5 45. Kxc5 e4 46. Kc6 e3 47.
+a7 e2 48. a8=Q# 1-0
+
+[Event "SK Schmiden/Cannstatt - SK Bebenhausen"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.3"]
+[White "Braeuning, Rudolf Wilhelm"]
+[Black "Holzhaeuer, Mathias"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "2222"]
+[BlackElo "2239"]
+[PlyCount "43"]
+[EventDate "2023.??.??"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 Bc5 5. a3 a6 6. e3 d6 7. Nge2 O-O 8. O-O
+Ne7 9. d4 Ba7 10. b4 c6 11. Bb2 Be6 12. d5 cxd5 13. cxd5 Bd7 14. Rc1 Ne8 15.
+Qb3 f5 16. b5 Ng6 17. a4 Bc5 18. bxa6 Rxa6 19. Ba3 Bxa3 20. Qxa3 b5 21. Qb4
+bxa4 22. Ra1 1/2-1/2
+
+[Event "SK Schmiden/Cannstatt - SK Bebenhausen"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.4"]
+[White "Loehr, Markus"]
+[Black "Frick, Christoph"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[WhiteElo "2213"]
+[BlackElo "2113"]
+[PlyCount "62"]
+[EventDate "2023.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Bg4 10. Rd1 Nbd7 11. h3 Bh5 12. e4 Qe7 13. g4 Bg6 14. e5 Nd5 15.
+Nxd5 cxd5 16. Bd3 Nb8 17. Be3 Nc6 18. Rac1 Rac8 19. Rc2 Rc7 20. Rdc1 Rfc8 21.
+Kg2 Qd7 22. Bxg6 fxg6 23. Qd3 a6 24. Qb3 Be7 25. Qb6 a5 26. Bd2 Ra8 27. Qb5
+Rcc8 28. b3 Rf8 29. Be3 Ba3 30. Ra1 Bb4 31. Ne1 Be7 1/2-1/2
+
+[Event "SK Schmiden/Cannstatt - SK Bebenhausen"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.5"]
+[White "Hartmann, Martin"]
+[Black "Thoma, Christian"]
+[Result "0-1"]
+[ECO "B55"]
+[WhiteElo "2186"]
+[BlackElo "2198"]
+[PlyCount "112"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb3 a5 7. a4 Be7 8. Nc3
+O-O 9. Bc4 Nbd7 10. Be3 Nb6 11. Qd3 Nxc4 12. Qxc4 Bd7 13. O-O Rc8 14. Qe2 Be6
+15. Rfd1 Bc4 16. Qf2 Rc6 17. Nd5 Bxd5 18. exd5 Ra6 19. c4 Nd7 20. Rac1 b6 21.
+f4 exf4 22. Bxf4 Nc5 23. Nd4 Qd7 24. b3 Bf6 25. Qg3 Raa8 26. Nb5 Be5 27. Bxe5
+dxe5 28. d6 e4 29. Rd5 f5 30. Rf1 Rf6 31. Qh3 Raf8 32. Re5 R8f7 33. Rd1 Rh6 34.
+Qc3 f4 35. Rf1 Rg6 36. Kh1 h6 37. Qd4 Qg4 38. Re8+ Kh7 39. Qg1 e3 40. Rxe3 fxe3
+41. Rxf7 e2 42. h3 Qxh3+ 43. gxh3 Rxg1+ 44. Kxg1 e1=Q+ 45. Kg2 Qe2+ 46. Rf2
+Qe4+ 47. Kh2 Qd3 48. Rf7 Kg6 49. Rf2 Kh5 50. Rg2 g5 51. Rg4 Qc2+ 52. Kg1 Qxb3
+53. Kh2 Qc2+ 54. Kg1 Qd1+ 55. Kh2 Ne6 56. c5 bxc5 0-1
+
+[Event "SK Schmiden/Cannstatt - SK Bebenhausen"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.6"]
+[White "Eisele, Steffen"]
+[Black "Latzke, Boris"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2226"]
+[BlackElo "2170"]
+[PlyCount "75"]
+[EventDate "2023.??.??"]
+
+1. g3 d5 2. Bg2 c6 3. d3 Bg4 4. h3 Bh5 5. Nf3 e6 6. O-O Bd6 7. Nbd2 Nd7 8. e4
+Ne7 9. Re1 O-O 10. e5 Bc7 11. g4 Bg6 12. Nf1 c5 13. Bg5 Qe8 14. c3 Nc6 15. d4
+cxd4 16. cxd4 h6 17. Be3 Qe7 18. Ng3 Rfc8 19. g5 hxg5 20. Bxg5 Qb4 21. b3 Bd8
+22. Bxd8 Rxd8 23. Re2 Rac8 24. Rd2 Nf8 25. Qe2 Rd7 26. h4 Qe7 27. h5 Bf5 28.
+Nxf5 exf5 29. Bh3 g6 30. Kh2 Ne6 31. Rg1 Kh7 32. Qe3 Rh8 33. Ng5+ Nxg5 34. Rxg5
+Nd8 35. Qg3 Kh6 36. Rxg6+ Kxh5 37. Bxf5 Ne6 38. Qg4# 1-0
+
+[Event "SK Schmiden/Cannstatt - SK Bebenhausen"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.7"]
+[White "Roth, Juergen Eugen"]
+[Black "Scheeff, Volker"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2145"]
+[BlackElo "2086"]
+[PlyCount "118"]
+[EventDate "2023.??.??"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. c4 dxc4 5. Qa4 c6 6. Qxc4 Bxf3 7. Bxf3 Ne5 8.
+Qe4 Nxf3+ 9. Qxf3 Nf6 10. Nc3 e6 11. O-O Be7 12. Rd1 O-O 13. d4 Qb6 14. b3 Rfd8
+15. Na4 Qa5 16. Bb2 Qd5 17. Kg2 Ne4 18. Nc3 Nxc3 19. Bxc3 f5 20. Qxd5 Rxd5 21.
+e3 Rad8 22. Rdc1 Kf7 23. a4 g5 24. b4 a6 25. h3 h5 26. f3 Kg6 27. Rab1 g4 28.
+hxg4 hxg4 29. fxg4 fxg4 30. e4 Rh5 31. Rh1 Rxh1 32. Rxh1 e5 33. dxe5 Rd3 34.
+Rc1 Re3 35. Kf2 Rxe4 36. Rb1 Rc4 37. Rb3 Kf5 38. Ke3 b5 39. axb5 axb5 40. Kd3
+Bd8 41. Rb1 Ke6 42. Re1 Be7 43. Re4 Kd5 44. Rf4 Bg5 45. Rf7 Ke6 46. Rg7 Be7 47.
+Bd4 Bxb4 48. Rxg4 c5 49. Rg6+ Kf7 50. Rf6+ Ke7 51. Bb2 Rg4 52. Rb6 c4+ 53. Kc2
+Rxg3 54. Rxb5 Rg2+ 55. Kb1 c3 56. Rxb4 Rxb2+ 57. Rxb2 cxb2 58. Kxb2 Ke6 59. Kc3
+Kxe5 1/2-1/2
+
+[Event "SK Schmiden/Cannstatt - SK Bebenhausen"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.8"]
+[White "Witke, Thomas"]
+[Black "Khadempour, Farhad"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2210"]
+[BlackElo "2141"]
+[PlyCount "165"]
+[EventDate "2023.??.??"]
+
+1. d4 Nf6 2. Bf4 c5 3. d5 b5 4. a4 b4 5. c4 bxc3 6. Nxc3 d6 7. e4 g6 8. Nf3 Bg7
+9. Bb5+ Nbd7 10. O-O O-O 11. Nd2 Rb8 12. Qc2 Ne8 13. Bg3 Nc7 14. Nc4 Na6 15.
+Bxd7 Nb4 16. Qd2 Qxd7 17. Na3 Ba6 18. Nab5 Rb7 19. Rfe1 c4 20. e5 dxe5 21. Bxe5
+Bxe5 22. Rxe5 Bxb5 23. axb5 Qd6 24. Re4 Rc8 25. Ra4 e6 26. Rd4 Nxd5 27. Nxd5
+exd5 28. Rxd5 Qe7 29. g3 Rbc7 30. Ra3 Qf6 31. Rc3 Rc5 32. Rd6 Qg5 33. Qxg5 Rxg5
+34. b6 axb6 35. Rxb6 Rgc5 36. Kf1 Kg7 37. Rb7 h5 38. h4 R8c6 39. Kg2 Kf8 40.
+Rf3 Rc7 41. Rxc7 Rxc7 42. Rc3 Rb7 43. Rxc4 Rxb2 44. Rc8+ Kg7 45. Rc7 Rb6 46.
+Ra7 Kf6 47. Rc7 Re6 48. Kf3 Ra6 49. Rb7 Ra3+ 50. Kf4 Ra2 51. Kf3 Rd2 52. Rb6+
+Kg7 53. Rb7 Rd5 54. Ra7 Rf5+ 55. Ke3 Kh6 56. f3 Kg7 57. Rb7 Re5+ 58. Kf4 Re1
+59. Ra7 Re6 60. Rb7 Kf6 61. Ra7 Rb6 62. Ra4 Rb7 63. g4 hxg4 64. fxg4 Rb1 65.
+Ra6+ Kg7 66. Ra7 Rb3 67. Rc7 Rh3 68. Kg5 Rd3 69. Ra7 Rd5+ 70. Kf4 Kf6 71. Ra6+
+Kg7 72. Ra7 Rd6 73. g5 Rd4+ 74. Kg3 Rd1 75. Kf4 Rh1 76. Kg4 Rh2 77. Rb7 Ra2 78.
+Rc7 Ra4+ 79. Kg3 Re4 80. Ra7 Kf8 81. Ra8+ Kg7 82. Ra7 Re5 83. Kg4 1/2-1/2
+
+[Event "TG Biberach - TSV Schönaich 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.1"]
+[White "Bunzmann, Dimitrij"]
+[Black "Sinz, Bernhard"]
+[Result "--+"]
+[ECO ""]
+[WhiteElo "2446"]
+[BlackElo "2313"]
+[PlyCount "0"]
+
+--+
+
+[Event "TG Biberach - TSV Schönaich 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.2"]
+[White "Oberst, Thomas"]
+[Black "Menezes, Christoph"]
+[Result "+--"]
+[ECO ""]
+[WhiteElo "2258"]
+[BlackElo "2420"]
+[PlyCount "0"]
+
++--
+
+[Event "TG Biberach - TSV Schönaich 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.3"]
+[White "Brunner, Jan"]
+[Black "Mack, Wolfgang"]
+[Result "--+"]
+[ECO ""]
+[WhiteElo "2219"]
+[BlackElo "2256"]
+[PlyCount "0"]
+
+--+
+
+[Event "TG Biberach - TSV Schönaich 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.4"]
+[White "Fischer, Andre"]
+[Black "Kocharin, Timur"]
+[Result "+--"]
+[ECO ""]
+[WhiteElo "2260"]
+[BlackElo "2203"]
+[PlyCount "0"]
+
++--
+
+[Event "TG Biberach - TSV Schönaich 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.5"]
+[White "Reck, Moritz"]
+[Black "Wunder, Niklas"]
+[Result "--+"]
+[ECO ""]
+[WhiteElo "2135"]
+[BlackElo "2080"]
+[PlyCount "0"]
+
+--+
+
+[Event "TG Biberach - TSV Schönaich 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.6"]
+[White "Birkenmaier, Rainer"]
+[Black "Petzold, Tristan"]
+[Result "+--"]
+[ECO ""]
+[WhiteElo "2092"]
+[BlackElo "2101"]
+[PlyCount "0"]
+
++--
+
+[Event "TG Biberach - TSV Schönaich 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.7"]
+[White "Stukenbrok, Nils"]
+[Black "Wunder, Fabian"]
+[Result "--+"]
+[ECO ""]
+[WhiteElo "2066"]
+[BlackElo "2069"]
+[PlyCount "0"]
+
+--+
+
+[Event "TG Biberach - TSV Schönaich 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.8"]
+[White "Engelhart, Achim, Dr."]
+[Black "Kilinc, Can"]
+[Result "+--"]
+[ECO ""]
+[WhiteElo "2054"]
+[BlackElo "1928"]
+[PlyCount "0"]
+
++--
+
+[Event "SV Jedesheim - Stuttgarter SF 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.1"]
+[White "Brueckner, Thomas"]
+[Black "Pikula, Dejan"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2355"]
+[BlackElo "2346"]
+[PlyCount "131"]
+[EventDate "2023.??.??"]
+
+1. Nf3 g6 2. d4 Bg7 3. Bf4 d6 4. e3 Nd7 5. Bc4 e6 6. O-O Ne7 7. e4 h6 8. Qe2 g5
+9. Be3 Ng6 10. Nc3 c6 11. a4 O-O 12. a5 d5 13. Bb3 Kh7 14. e5 f6 15. exf6 Qxf6
+16. Qd3 Kh8 17. Ne2 Qf7 18. c4 Re8 19. Bc2 Ndf8 20. Ne5 Nxe5 21. dxe5 Bd7 22.
+f4 g4 23. c5 Re7 24. Nd4 Qg8 25. Qe2 Rb8 26. Qxg4 b6 27. b4 bxc5 28. bxc5 Rb4
+29. Bd3 Be8 30. a6 Rc7 31. Rfb1 Rxb1+ 32. Rxb1 Qf7 33. Rb8 Qe7 34. Nf3 d4 35.
+Nxd4 Bf7 36. Be4 Qxc5 37. Nf5 exf5 38. Bxc5 fxg4 39. Bd6 Rd7 40. Bxc6 Rxd6 41.
+exd6 Bd4+ 42. Kf1 Bc4+ 43. Ke1 Kg7 44. d7 Nxd7 45. Bxd7 Bxa6 46. Bxg4 Bc4 47.
+Be2 Be6 48. Ba6 Bg1 49. g3 h5 50. h4 Bf7 51. Rb5 Kh6 52. Rg5 Bd4 53. Ke2 Be8
+54. Kd3 Bf2 55. Ke4 Bg6+ 56. Kf3 Bb6 57. Rd5 Be8 58. Rd6+ Kg7 59. g4 Bc5 60.
+Rd8 hxg4+ 61. Kxg4 Bf7 62. Rd7 Kf6 63. f5 Be8 64. Rd5 Be3 65. Rd6+ Kf7 66. Bc4+
+1-0
+
+[Event "SV Jedesheim - Stuttgarter SF 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.2"]
+[White "Atlas, Valery"]
+[Black "Migl, Dieter"]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2406"]
+[BlackElo "2088"]
+[PlyCount "75"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. g3 d5 7. Bg2 Qb6 8. Nb3
+d4 9. Ne2 e5 10. O-O a5 11. h3 Be6 12. Kh1 Nd7 13. c3 a4 14. Nd2 d3 15. Ng1 Nc5
+16. f4 Bd6 17. f5 Bd7 18. Nc4 Qc7 19. f6 g6 20. Ne3 b5 21. Nd5 Qb7 22. Be3 b4
+23. Rc1 b3 24. a3 Na5 25. Bxc5 Bxc5 26. Qxd3 O-O 27. Nf3 Rfe8 28. c4 Nc6 29. h4
+Nd4 30. Nxd4 exd4 31. e5 Qb8 32. Ne7+ Bxe7 33. fxe7 Ra5 34. Qxd4 Rxe7 35. c5
+Qxe5 36. Qxe5 Rxe5 37. c6 Bf5 38. Rxf5 1-0
+
+[Event "SV Jedesheim - Stuttgarter SF 2"]
+[Site "?"]
+[Date "2023.04.??"]
+[Round "8"]
+[White "Gabriel, Robert"]
+[Black "Heidenfeld, Mark"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2200"]
+[BlackElo "2329"]
+[PlyCount "28"]
+[EventDate "2023.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Be7 8. Qc2
+g6 9. e3 Bf5 10. Bd3 Bxd3 11. Qxd3 Nbd7 12. O-O O-O 13. Rab1 a5 14. a3 Ne4
+1/2-1/2
+
+[Event "SV Jedesheim - Stuttgarter SF 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.4"]
+[White "Atlas, Dmitry"]
+[Black "Maeurer, Christoph"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2200"]
+[BlackElo "2253"]
+[PlyCount "42"]
+[EventDate "2023.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Be2 cxd4 7. cxd4 Nf5 8. b3
+Bb4+ 9. Kf1 Be7 10. h4 Bd7 11. h5 Nh6 12. Nc3 f6 13. Rh3 Nf7 14. Bf4 O-O 15.
+Qd2 Rc8 16. Nd1 Qb6 17. Bh2 fxe5 18. dxe5 Bb4 19. Qd3 Ba3 20. Rh4 Be7 21. Rf4
+Ng5 1/2-1/2
+
+[Event "SV Jedesheim - Stuttgarter SF 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.5"]
+[White "Weidel, Albrecht"]
+[Black "Anistratov, Dmitriy"]
+[Result "0-1"]
+[ECO "A54"]
+[WhiteElo "2136"]
+[BlackElo "2236"]
+[PlyCount "90"]
+[EventDate "2023.??.??"]
+
+1. Nf3 Nf6 2. g3 d6 3. d4 Nbd7 4. Bg2 c6 5. O-O e5 6. c4 Be7 7. Nc3 O-O 8. b3
+e4 9. Ne1 d5 10. Nc2 Re8 11. Bb2 Nf8 12. Ne3 Ng6 13. Qd2 h5 14. f3 exf3 15.
+exf3 h4 16. cxd5 cxd5 17. f4 Bb4 18. Qd3 Bxc3 19. Bxc3 Ne4 20. Bxe4 Rxe4 21. f5
+Nf8 22. Rf3 a5 23. Raf1 Ra6 24. Rf4 hxg3 25. hxg3 Rxf4 26. Rxf4 Nh7 27. Kg2 a4
+28. b4 Bd7 29. Bd2 Nf6 30. b5 Ra8 31. Rh4 Ne4 32. f6 Qxf6 33. Be1 Be6 34. Qd1
+Qg6 35. Bf2 f6 36. Qh1 Kf7 37. Rh8 Rxh8 38. Qxh8 Ng5 39. Qb8 Qe4+ 40. Kf1 Qb1+
+41. Kg2 Qxb5 42. Qc7+ Kg6 43. g4 Qb1 44. Kh2 Qxa2 45. Qf4 Ne4 0-1
+
+[Event "SV Jedesheim - Stuttgarter SF 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.6"]
+[White "Bossinger, Patrick"]
+[Black "Leitherer, Johannes"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2000"]
+[BlackElo "1955"]
+[PlyCount "98"]
+[EventDate "2023.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 Bg4 11. Qc2 Bf5 12. Qb3 Ne7 13. Rd1 c6 14. Bd3 Nxc3 15.
+bxc3 Qd7 16. Qc2 Rae8 17. O-O Bc7 18. Rfe1 Bxd3 19. Qxd3 Qf5 20. Bc1 Qxd3 21.
+Rxd3 Rc8 22. Nh4 Rfe8 23. f4 Ng6 24. Nf5 Ne7 25. Nh4 Ng6 26. Nf3 Bb6 27. f5 Nf8
+28. Be3 Red8 29. Bg5 Re8 30. Kf1 c5 31. dxc5 Rxc5 32. Be3 Ra5 33. Bxb6 axb6 34.
+Re2 g6 35. g4 Ra4 36. h3 Rf4 37. f6 Ne6 38. Kf2 Rc4 39. Rb2 Ra8 40. Rxd5 Rxc3
+41. Rbd2 h6 42. Rd7 Raa3 43. Ng1 Nc5 44. Rd8+ Kh7 45. Kg2 Nd3 46. Rd7 Nxe5 47.
+Rxb7 Rg3+ 48. Kf2 Rxg1 49. Re2 Rb1 1/2-1/2
+
+[Event "SV Jedesheim - Stuttgarter SF 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.7"]
+[White "Gabriel, Josef"]
+[Black "Buechele, Johannes"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2075"]
+[BlackElo "1908"]
+[PlyCount "75"]
+[EventDate "2023.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. d3 e5 7. Nc3 Be7 8.
+a4 O-O 9. Nh4 d5 10. Nf5 d4 11. Ne2 Re8 12. f4 Bf8 13. Qe1 g6 14. Nh4 Bh6 15.
+f5 Bxc1 16. Rxc1 Ng4 17. Qg3 Qg5 18. Kh1 Qh5 19. fxg6 fxg6 20. Rf3 Rf8 21. Rg1
+Kh8 22. c3 Ne3 23. cxd4 cxd4 24. Rxf8+ Rxf8 25. Nf3 Qg4 26. Rc1 Qe6 27. Qh4 Qd6
+28. Kg1 Kg7 29. Qg5 h6 30. Qg3 Rf6 31. h4 Re6 32. Qh3 Nc5 33. h5 Nxd3 34. Rc8
+gxh5 35. Nh4 Rf6 36. Qg3+ Rg6 37. Nxg6 Qxg6 38. Rg8+ 1-0
+
+[Event "SV Jedesheim - Stuttgarter SF 2"]
+[Site "?"]
+[Date "2023.04.23"]
+[Round "8.8"]
+[White "Jaskulski, Jan"]
+[Black "Schmid, Hartmut"]
+[Result "1-0"]
+[ECO "C64"]
+[WhiteElo "1968"]
+[BlackElo "2079"]
+[PlyCount "33"]
+[EventDate "2023.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. c3 Nge7 6. Bxc6 Nxc6 7. d4 exd4 8.
+e5 Qg6 9. cxd4 Be7 10. d5 Nd8 11. Nc3 O-O 12. Bf4 d6 13. Nb5 dxe5 14. Nxc7 exf4
+15. Nxa8 Bd6 16. Rc1 b6 17. Rxc8 1-0
+
